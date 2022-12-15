@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Modelo Fisico" id="8417E984-E315-B9D6-52A7-0DA5AC61AA9C" version="3.5">
+<createdBy>bbelb</createdBy>
+<createdTime>2022-11-08 22:46:29 UTC</createdTime>
+<ownerDesignName>Modelo Fisico</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>8417E984-E315-B9D6-52A7-0DA5AC61AA9C</designId>
+</OSDM_Design>
